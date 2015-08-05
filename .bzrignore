@@ -1,0 +1,4 @@
+lib/versioninfo.py
+tmp/*
+twistd.pid
+.sourcecode/*
